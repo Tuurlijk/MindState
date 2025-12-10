@@ -41,7 +41,7 @@ We may update this Privacy Policy from time to time. If we make changes, we will
 
 ### 7. Contact Us
 If you have any questions about this Privacy Policy or the App's privacy practices, please contact us at:  
-Email: support@mindstate.app
+Email: mindstate.privacy@michielroos.com
 
 Thank you for using MindState — an app that truly respects your privacy by collecting nothing.
 

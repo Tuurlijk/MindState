@@ -1,48 +1,73 @@
 # Privacy Policy for MindState
 
-**Effective Date:** December 10, 2025  
-**Last Updated:** December 10, 2025
+**Effective Date:** June 11, 2026
+**Last Updated:** June 11, 2026
 
-MindState ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use MindState, an Android application (the "App").
+MindState ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use MindState, a mobile application for Android and iOS (the "App").
 
-### 1. Information We Do NOT Collect
-MindState is designed with your privacy as a top priority. The App **does not collect, store, transmit, or share any personal information or usage data whatsoever**.
+The short version: the App needs no account, shows no ads, and keeps your mixes and settings on your device. We use a small amount of anonymous analytics and crash reporting to keep the App working well, and nothing else.
 
-Specifically, MindState does **not**:
-- Collect your name, email address, phone number, or any other personally identifiable information
-- Access or collect your location data
-- Access your contacts, photos, camera, microphone, or any other sensors or files on your device
-- Track your usage or behavior within the App
-- Use analytics tools, crash reporting services, or advertising networks
-- Send any data to our servers or any third-party servers
-- Use cookies, device identifiers, advertising IDs, or any tracking technologies
-- Require account creation or login
+### 1. Data Stored on Your Device
 
-All data processed by MindState (if any) is generated and stored **exclusively on your device** and is never transmitted outside your phone.
+Your mixes, settings, preferences, imported audio files, mix artwork, and listening history are stored **locally on your device**. This data:
 
-### 2. Local Storage (On Your Device Only)
-Any notes, settings, preferences, or information you create within MindState are saved **only locally on your device** using secure, private Android storage mechanisms. This data:
-- Never leaves your device
-- Is not backed up to any cloud service by us
-- Is only accessible by the MindState app on your device
-- Will be deleted if you uninstall the app or clear app data
+- Is created by you and stays on your phone
+- Is not uploaded to our servers (we do not operate any servers for the App)
+- May be included in your device's standard system backup, under your own device settings
+- Is deleted when you uninstall the App or clear its data
 
-### 3. Permissions
-MindState requests **no special permissions** from your device. It does not require internet access, storage permissions, or any other permissions that could potentially be used to collect data.
+### 2. Analytics and Crash Reporting
 
-### 4. Third-Party Services
-MindState does **not** integrate with or use any third-party services, SDKs, libraries, or frameworks that could collect data on our behalf.
+The App uses **Google Firebase Analytics** and **Firebase Crashlytics** to understand how the App is used and to fix crashes. Through these services we receive:
 
-### 5. Children's Privacy
-MindState does not knowingly collect any information from children under 13 years of age (or equivalent minimum age in the relevant jurisdiction). Because we collect no data at all, the App is inherently compliant with COPPA and similar children's privacy regulations.
+- App interaction events, such as playing a mix, using the editors, or visiting the paywall
+- For mixes bundled with the App, the identifier of the mix that was played; for mixes you create yourself, only coarse metadata (such as duration or category), never the name or content of your mix
+- Crash reports, including stack traces, device model, and operating system version
+- General device and app information, such as app version, device type, language, and country
+- Pseudonymous identifiers used by Firebase (including, on Android, the advertising ID) to distinguish devices; we use these for analytics only, never for advertising
 
-### 6. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. If we make changes, we will revise the "Last Updated" date at the top of this policy. Since the App does not collect any data, you will not receive notifications of changes, but we encourage you to review this policy periodically.
+This data does not include your name, email address, contacts, precise location, or the contents of your mixes and audio files. We use it solely to improve stability and usability of the App. Data is processed by Google on our behalf; see [Google's privacy policy](https://policies.google.com/privacy) and [Firebase privacy documentation](https://firebase.google.com/support/privacy) for details.
 
-### 7. Contact Us
-If you have any questions about this Privacy Policy or the App's privacy practices, please contact us at:  
+### 3. Purchases
+
+Optional subscriptions and one-time purchases are processed entirely by **Google Play** or the **Apple App Store**. We never see or store your payment details. The App stores only your entitlement status (for example, "subscribed") locally on your device so your purchases keep working offline.
+
+### 4. Permissions
+
+The App requests permissions only when a feature needs them:
+
+- **Camera** - used only while you scan a MindState QR code to import a mix. Camera images are processed on your device and are never stored or transmitted.
+- **Photos / media** - used only when you choose an image from your library as artwork for a mix, or pick an audio file for a mix. The selected files stay on your device.
+
+You can use the core of the App without granting any of these permissions.
+
+### 5. Sharing Mixes
+
+When you share a mix as a QR code or link, the shared data contains only the mix definition (tracks, frequencies, timing). It contains no personal information. Sharing is always initiated by you, through the share options you choose.
+
+### 6. What We Do NOT Do
+
+- No account creation or login
+- No advertising networks and no ads
+- No sale or rental of data to third parties
+- No access to your contacts or location
+- No microphone recording
+
+### 7. Children's Privacy
+
+The App is not directed at children under 13 (or the equivalent minimum age in your jurisdiction), and we do not knowingly collect personal information from children. Analytics data we receive is pseudonymous and cannot reasonably be used by us to identify any user, child or adult.
+
+### 8. Your Rights
+
+Depending on where you live (for example, under the GDPR in the European Union), you may have rights to access, correct, or delete personal data. Because the App stores your content on your device and our analytics data is pseudonymous, the most effective controls are in your hands: you can clear the App's data or uninstall it at any time, and reset your device's advertising ID in your system settings. For any privacy request or question, contact us at the address below and we will help.
+
+### 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time, for example when the App gains new features. If we make changes, we will revise the "Last Updated" date at the top of this policy. We encourage you to review this policy periodically.
+
+### 10. Contact Us
+
+If you have any questions about this Privacy Policy or the App's privacy practices, please contact us at:
 Email: mindstate.privacy@michielroos.com
-
-Thank you for using MindState — an app that truly respects your privacy by collecting nothing.
 
 — The MindState Team
